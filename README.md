@@ -29,7 +29,3 @@ Constraints:
 
 1 <= word.length <= 100
 word consists of lowercase and uppercase English letters.
-
-Solve Prinscreen
-
-![alt text]([http://url/to/img.png](https://github.com/filipececcon/teste-easy/blob/main/Captura%20de%20Tela%202025-02-09%20às%2013.02.49.png))
