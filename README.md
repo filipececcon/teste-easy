@@ -1,1 +1,35 @@
 # teste-easy
+
+520. Detect Capital
+Solved
+Easy
+
+Topics
+Companies
+We define the usage of capitals in a word to be right when one of the following cases holds:
+
+All letters in this word are capitals, like "USA".
+All letters in this word are not capitals, like "leetcode".
+Only the first letter in this word is capital, like "Google".
+Given a string word, return true if the usage of capitals in it is right.
+
+ 
+
+Example 1:
+
+Input: word = "USA"
+Output: true
+Example 2:
+
+Input: word = "FlaG"
+Output: false
+ 
+
+Constraints:
+
+1 <= word.length <= 100
+word consists of lowercase and uppercase English letters.
+
+Solve Prinscreen
+
+![alt text]([http://url/to/img.png](https://github.com/filipececcon/teste-easy/blob/main/Captura%20de%20Tela%202025-02-09%20às%2013.02.49.png))
